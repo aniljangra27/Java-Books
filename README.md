@@ -6,3 +6,4 @@ Latest Books Soft copies
 3. Code-complete-2nd-edition
 4. Design Patterns, Elements of Reusable Object-Oriented Software 
 5. JWT-handbook
+6. Machine Learning Interview Questions
