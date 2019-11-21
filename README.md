@@ -10,4 +10,4 @@ Latest Books Soft copies
 7. Martin Fowler
   Patterns of Enterprise Application Architecture (2002).pdf
   Refactoring_improving_the_design_of_existing_code.pdf
-  Refactoring2-free-chapter.pdf
+  and Refactoring2-free-chapter.pdf
