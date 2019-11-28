@@ -11,3 +11,5 @@ Latest Books Soft copies
   Patterns of Enterprise Application Architecture (2002).pdf
   Refactoring_improving_the_design_of_existing_code.pdf
   and Refactoring2-free-chapter.pdf
+  Clean Architecture-Robert-C-Martin.pdf
+  Clean_Code-Robert-C-Martin.pdf
