@@ -13,4 +13,3 @@ Latest Books Soft copies
   7.3 Refactoring2-free-chapter.pdf
   7.4 Clean Architecture-Robert-C-Martin.pdf
   7.5 Clean_Code-Robert-C-Martin.pdf
-8. Head First Object Oriented Design and Analysis
